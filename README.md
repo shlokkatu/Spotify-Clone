@@ -1,5 +1,8 @@
 # Spotify-Clone
 
+# Output
+![S clone pic](https://github.com/user-attachments/assets/4254fe4c-a42f-4f66-ba19-83c7de7e027c)
+
 Spotify Clone 🎵
 This project is a front-end clone of the popular music streaming platform, Spotify. It replicates the look and feel of Spotify using HTML and CSS.
 
